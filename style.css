@@ -61,7 +61,7 @@ nav ul li a.sign:hover{
 /* Banner */
 .banner{
     height: 100vh;
-    background-image: url(gambar/banner.jpg);
+    background-image: url(Gambar/banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -231,55 +231,55 @@ footer{
 
 /* Foto */
 .fsatu{
-    background-image: url(gambar/partner1.jpg);
+    background-image: url(Gambar/partner1.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .fdua{
-    background-image: url(gambar/partner2.jpg);
+    background-image: url(Gambar/partner2.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .ftiga{
-    background-image: url(gambar/partner3.jpg);
+    background-image: url(Gambar/partner3.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .fempat{
-    background-image: url(gambar/partner4.jpg);
+    background-image: url(Gambar/partner4.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .usatu{
-    background-image: url(gambar/top1.jpg);
+    background-image: url(Gambar/top1.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .udua{
-    background-image: url(gambar/top2.jpg);
+    background-image: url(Gambar/top2.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .utiga{
-    background-image: url(gambar/top3.jpg);
+    background-image: url(Gambar/top3.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .uempat{
-    background-image: url(gambar/top4.jpg);
+    background-image: url(Gambar/top4.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .ulima{
-    background-image: url(gambar/top5.jpg);
+    background-image: url(Gambar/top5.jpg);
     background-position: center;
     background-size: cover;
 }
